@@ -1,2 +1,0 @@
-# Kamailio
-Kamailio Basic Installation
